@@ -7,7 +7,7 @@
         "cliName": "Bugfix",
         "guiName": "Bugfix"
     },
-    "servers": ["https://raw.githubusercontent.com/wearyzxc/bugfix/master/"],
+    "servers": ["https://raw.githubusercontent.com/dev8213/bugfix/master/"],
     "conflicts": ["swim-fix","chat-sanitizer"],
     "disableAutoUpdate": false
 }
