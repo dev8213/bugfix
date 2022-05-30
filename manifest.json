@@ -1,11 +1,22 @@
 {
     "files": {
-        "README.md": "cc801494ffebcdf284c4002b94d3c4e4f27d8fc07b2b1d3fc8d78b9a7562a69d",
+        "README.md": "4edd96d31f37b03fcbe7de494c04359dddebce080e7d6e8a424ff01a8f2fe5dd",
         "index.js": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
         "lib/chat-sanitizer.js": "0117ffca404691539dbe041bfe9bc51b00aafa55d87f8053728231864491de72",
         "lib/menma-fix.js": "be8a9306f57f8ff2b0db9ce6024e0034dbabb231ae824d8138d2f7cb5ee7943e",
         "lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295",
         "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
-        "module.json": "5594ca8a493d13a8947efd0da63b82764e0ce7f26ec55a46cb65992b728fc552"
+        "manifest.json": "a3aa2b8c9438c3806b8cc3952abcf8b91041f0a908a7ca9a953808fc22b267bb",
+        "module.json": "e53a9840bc0f3c6cfd7d2a383e9d8c18f9d5070008e550d194ba464803859a17"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ACTION_STAGE": 9,
+        "S_CHAT": 3,
+        "S_DESPAWN_NPC": 3,
+        "S_PRIVATE_CHAT": 1,
+        "S_SPAWN_NPC": 11,
+        "S_WHISPER": 3
     }
 }
