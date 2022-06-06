@@ -7,5 +7,15 @@
         "lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295",
         "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
         "module.json": "5594ca8a493d13a8947efd0da63b82764e0ce7f26ec55a46cb65992b728fc552"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ACTION_STAGE": 9,
+        "S_CHAT": 3,
+        "S_DESPAWN_NPC": 3,
+        "S_PRIVATE_CHAT": 1,
+        "S_SPAWN_NPC": 11,
+        "S_WHISPER": 3
     }
 }
